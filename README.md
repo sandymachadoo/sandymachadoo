@@ -29,17 +29,17 @@
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="60" width="60" src="https://github.com/user-attachments/assets/2eaabe00-c100-497d-9786-6dca27500b0c">
+<img align="left" height="50" width="50" src="https://github.com/user-attachments/assets/2eaabe00-c100-497d-9786-6dca27500b0c">
 
-<img align="left" height="60" width="60" src="https://github.com/user-attachments/assets/a5501c9e-c95e-4f91-9968-e0984ed28f9a">
+<img align="left" height="50" width="50" src="https://github.com/user-attachments/assets/a5501c9e-c95e-4f91-9968-e0984ed28f9a">
 
-<img align="left"  height="60" width="60" src="https://github.com/user-attachments/assets/80ba15c6-f42c-4f1f-ae6e-c0b3fd8aaa3e">
+<img align="left"  height="50" width="50" src="https://github.com/user-attachments/assets/80ba15c6-f42c-4f1f-ae6e-c0b3fd8aaa3e">
 
-<img align="left"  height="60" width="60" src="https://github.com/user-attachments/assets/69769240-dc32-4c9c-99b0-a40428bcdf05">
+<img align="left" height="50" width="50" src="https://github.com/user-attachments/assets/69769240-dc32-4c9c-99b0-a40428bcdf05">
 
-<img align="left"  height="60" width="60" src="https://github.com/user-attachments/assets/7dbab4ca-2c47-4069-a22d-124c0fe04d14">
+<img align="left"  height="50" width="50" src="https://github.com/user-attachments/assets/7dbab4ca-2c47-4069-a22d-124c0fe04d14">
 
-<img align="left"  height="60" width="60" src="https://github.com/user-attachments/assets/ea2b22d6-abf0-40b1-822c-e6c66fad2666">
+<img align="left"  height="50" width="50" src="https://github.com/user-attachments/assets/ea2b22d6-abf0-40b1-822c-e6c66fad2666">
 
 </div>
 
@@ -55,7 +55,7 @@
 <br>
 <br>
 
-<p align="centre"></p> 
+<p align="center"></p> 
   
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fsandymachadoo&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
