@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/5fd11157-9f0e-4a2b-b0a2-9c006547fb49"/>  
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/7744a24f-ca43-4ce3-903d-0bc63efb697d"/>  
 <br>
 <br>
 
@@ -16,7 +16,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sandy-machado-" target="_blank">
-<img align="center" height="60" width="60" src="https://github.com/user-attachments/assets/b4932a5e-532f-4252-8d71-28761e3a1488">
+<img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/b4932a5e-532f-4252-8d71-28761e3a1488">
 </a>
 
 </div>
@@ -65,6 +65,6 @@
 <br> 
 
 
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/5fd11157-9f0e-4a2b-b0a2-9c006547fb49"/>  
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/7744a24f-ca43-4ce3-903d-0bc63efb697d"/>  
 
 
