@@ -7,12 +7,12 @@
 <br>
 <br>
 
-<div align="center">
+<div align="center" style="width:100% ;height: 200px; display: flex; justify-content: space-around;" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandymachadoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandymachadoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sandymachadoo&theme=radical&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
+### Para contato:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sandy-machado-" target="_blank">
