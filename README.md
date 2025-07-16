@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/173ad9f0-0235-4bfd-a50b-c84b459aedd2"/>  
+
 <br>
 <br>
 
@@ -12,36 +12,43 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sandymachadoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   </div>
 
-### Para contato:
-<div align="center">
+  <h3 align="left">My Stack:</h3>
 
-<a href="https://www.linkedin.com/in/sandy-machado-" target="_blank">
-<img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/b4932a5e-532f-4252-8d71-28761e3a1488">
-</a>
-
+<div align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="8" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
+   <img width="8" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="8" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+  <img width="8" 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img width="8" />
 </div>
 
-<div align="center" >
+#
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:sandyalexandrams@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/sandymachadoo-/)
+
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandymachadoo/sandymachadoo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandymachadoo/sandymachadoo/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture> 
 
-</div>
-
-### Main skills:
-<div align="left"> 
-<img align="left" height="50" width="50" src="https://github.com/user-attachments/assets/2eaabe00-c100-497d-9786-6dca27500b0c">
-
-<img align="left" height="50" width="50" src="https://github.com/user-attachments/assets/a5501c9e-c95e-4f91-9968-e0984ed28f9a">
-
-<img align="left"  height="50" width="50" src="https://github.com/user-attachments/assets/80ba15c6-f42c-4f1f-ae6e-c0b3fd8aaa3e">
-
-<img align="left" height="50" width="50" src="https://github.com/user-attachments/assets/69769240-dc32-4c9c-99b0-a40428bcdf05">
-
-<img align="left"  height="50" width="50" src="https://github.com/user-attachments/assets/7dbab4ca-2c47-4069-a22d-124c0fe04d14">
-
-<img align="left"  height="50" width="50" src="https://github.com/user-attachments/assets/ea2b22d6-abf0-40b1-822c-e6c66fad2666">
-
-</div>
 
 <br>
 <br> 
@@ -63,7 +70,5 @@
 <br>
 <br> 
 
-
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/173ad9f0-0235-4bfd-a50b-c84b459aedd2"/>  
 
 
