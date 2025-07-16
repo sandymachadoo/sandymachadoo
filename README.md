@@ -42,7 +42,7 @@
 <a href="mailto:sandyalexandrams@gmail.com">
   <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=F74571" alt="Email">
 </a>
-<a href="https://www.linkedin.com/in/sandymachado-/">
+<a href="https://www.linkedin.com/in/sandy-machado-/">
   <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F74571" alt="LinkedIn">
 </a>
 
