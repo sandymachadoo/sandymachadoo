@@ -6,7 +6,7 @@
 
 ## Sobre mim ##
 
-- Cursando Análise e Desenvolvimento de Sistemas na UNINTER.
+- Cursando Análise e Desenvolvimento de Sistemas.
 
 - Estudos com foco em Java e Spring Boot.
 
