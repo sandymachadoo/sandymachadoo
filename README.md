@@ -40,13 +40,12 @@
 <p align="left">
   💌 Entre em contato comigo: ⤵️
 </p>
+ <br>
+  📧 <a href="mailto:sandyalexandrams@gmail.com">sandyalexandrams@gmail.com</a>
+</p>
 
 <p align="left">
-
-  <a href="mailto:sandyalexandrams@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-
+  
   <a href="https://www.linkedin.com/in/sandy-machado-/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
