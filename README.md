@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/sandy-machado/">
+  <a href="https://www.linkedin.com/in/sandy-machado-/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
