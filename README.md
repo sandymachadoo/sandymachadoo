@@ -8,7 +8,7 @@
 
 - Cursando Análise e Desenvolvimento de Sistemas.
 
-- Estudos com foco em Java e Spring Boot.
+- Foco em Java e Spring Boot.
 
 - Buscando aprofundar conhecimentos e habilidades para contribuir em projetos tecnológicos.
 
