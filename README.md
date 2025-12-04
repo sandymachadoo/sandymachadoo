@@ -72,10 +72,6 @@
   <a href="https://www.linkedin.com/in/sandy-machado-/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-  <a href="https://api.whatsapp.com/send?phone=5521992009503">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
 </p>
 
    
