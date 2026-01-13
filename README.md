@@ -26,15 +26,18 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-**Utilidades**
+**Testes**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-**DevOps**
+**Versionamento**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**DevOps**
+
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **Ferramentas de desenvolvimento**
@@ -55,19 +58,15 @@
 #
 
 <p align="left">
-  💌 Entre em contato comigo: ⤵️
+  💌 Entre em contato comigo: 
 </p>
- <br>
-  📧 <a href="mailto:sandyalexandrams@gmail.com">sandyalexandrams@gmail.com</a>
-</p>
-
-<p align="left">
-  
+ <p align="left">
+  <a href="mailto:sandyalexandrams@gmail.com">sandyalexandrams@gmail.com</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sandy-machado-/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
 
 <br>
 <br> 
